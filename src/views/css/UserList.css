@@ -1,0 +1,48 @@
+
+  
+  thead {
+    color: #fff;
+    background: #73685d;
+  }
+
+  thead tr {
+    height: 20px;
+  }
+
+  tbody tr {
+    height: 40px;
+  }
+
+  th {
+    
+    text-align: left;
+  }
+
+  td {
+    background: #fff;
+    height: 18px;
+  }
+    
+   td, th {
+    font-size:14px;
+    vertical-align: middle;
+  }
+    
+  thead {
+    font-weight: bold;
+    color: #fff;
+    background: #73685d;
+  }
+
+  select {
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px; 
+    text-align: center; 
+  }
+
+input{
+  margin-left: 20px;
+  width: 15px;
+}
